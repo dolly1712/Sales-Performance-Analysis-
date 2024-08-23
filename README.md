@@ -35,7 +35,6 @@ Quantity: Number of units sold.
 Total Amount: Total amount spent in the transaction.
 
 # Analysis and Insight
-s
 # SQL Analysis
 Total Sales by Category: Aggregated total sales amount by product category.
 Sales Trends Over Time: Analyzed sales data to identify trends and seasonality.
